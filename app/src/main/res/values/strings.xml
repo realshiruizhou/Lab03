@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 03</string>
+    <string name="tl">Top Left</string>
+    <string name="tr">Top Right</string>
+    <string name="bl">Bottom Left</string>
+    <string name="br">Bottom Right</string>
+</resources>
